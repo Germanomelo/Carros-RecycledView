@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e53935</color>
+    <color name="colorPrimaryDark">#871c1c</color>
+    <color name="colorAccent">#38a2ff</color>
+    <color name="row_car">#f1f1f1</color>
+</resources>
